@@ -1,0 +1,13 @@
+.input-btn {
+  font-size: 15px;
+  padding: 10px;
+}
+
+.Calculate-btn {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 12px;
+  font-size: 15px;
+  cursor: pointer;
+}
